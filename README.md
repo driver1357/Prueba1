@@ -1,2 +1,2 @@
 # Prueba1
-Primer repo
+Primer repositorio en git
